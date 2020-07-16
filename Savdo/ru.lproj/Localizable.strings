@@ -1,0 +1,183 @@
+
+// View Post Ads
+"listLayout" = "Макет списка";
+"gridLayout" = "Макет сетки";
+
+
+//JOBSVC
+"jobsUploadImage" = "Загрузить больше качественных и разных фотографий. это привлечет больше внимания к дополнению";
+"jobsTypeString" = "RealEstate / Дома и квартиры на продажу. / Ownwer";
+"jobstittle" = "заглавие";
+"jobsDescritption" = "Описание";
+"jobsPrice" = "Описание";
+"jobsCity" = "город";
+"jobsSize" = "Размер";
+"jobsType" = "Тип вакансии";
+"jobsWork" = "Опыт работы";
+"jobsHidnPhone" = "Скрытый номер телефона";
+"jobsHidnOnChat" = "Включить чат";
+"jobsHidnDeature" = "Добавьте ваши объявления";
+"jobsDisclaimare" = "Я согласен с условиями использования сервиса, а также с передачей и обработкой моих данных на somom.tj. Я подтверждаю свой возраст и ответственность за размещение рекламы.";
+"jobsBtnPuBlish" = "Публиковать";
+
+//PostAddVC
+"PAddUploadImage" = "Загрузить больше качественных и разных фотографий. это привлечет больше внимания к дополнению";
+"PAddTypeString" = "RealEstate / Дома и квартиры на продажу. / Ownwer";
+"PAddtittle" = "заглавие";
+"PAddDescritption" = "Описание";
+"PAddPrice" = "Описание";
+"PAddCity" = "город";
+"PAddSize" = "Размер";
+"PAddHidnPhone" = "Скрытый номер телефона";
+"PAddHidnOnChat" = "Включить чат";
+"PAddHidnDeature" = "Добавьте ваши объявления";
+"PAddDisclaimare" = "Я согласен с условиями использования сервиса, а также с передачей и обработкой моих данных на somom.tj. Я подтверждаю свой возраст и ответственность за размещение рекламы.";
+"PAddBtnPuBlish" = "Публиковать";
+
+//MrKetVC
+"MrKetUploadImage" = "Загрузить больше качественных и разных фотографий. это привлечет больше внимания к дополнению";
+"MrKetTypeString" = "RealEstate / Дома и квартиры на продажу. / Ownwer";
+"MrKettittle" = "заглавие";
+"MrKetDescritption" = "Описание";
+"MrKetPrice" = "Описание";
+"MrKetCity" = "город";
+"MrKetSize" = "Размер";
+"MrKetHidnPhone" = "Скрытый номер телефона";
+"MrKetHidnOnChat" = "Включить чат";
+"MrKetHidnDeature" = "Добавьте ваши объявления";
+"MrKetDisclaimare" = "Я согласен с условиями использования сервиса, а также с передачей и обработкой моих данных на somom.tj. Я подтверждаю свой возраст и ответственность за размещение рекламы.";
+"MrKetBtnPuBlish" = "Публиковать";
+
+//KidsVC
+"kidUploadImage" = "Загрузить больше качественных и разных фотографий. это привлечет больше внимания к дополнению";
+"kidTypeString" = "RealEstate / Дома и квартиры на продажу. / Ownwer";
+"kidtittle" = "заглавие";
+"kidDescritption" = "Описание";
+"kidPrice" = "Описание";
+"kidCity" = "город";
+"kidSize" = "Размер";
+"kidHidnPhone" = "Скрытый номер телефона";
+"kidHidnOnChat" = "Включить чат";
+"kidHidnDeature" = "Добавьте ваши объявления";
+"kidDisclaimare" = "Я согласен с условиями использования сервиса, а также с передачей и обработкой моих данных на somom.tj. Я подтверждаю свой возраст и ответственность за размещение рекламы.";
+"kidBtnPuBlish" = "Публиковать";
+
+//MOTORVC
+"mtrUploadImage" = "Загрузить больше качественных и разных фотографий. это привлечет больше внимания к дополнению";
+"mtrTypeString" = "RealEstate / Дома и квартиры на продажу. / Ownwer";
+"mtrtittle" = "заглавие";
+"mtrDescritption" = "Описание";
+"mtrPrice" = "Описание";
+"mtrCity" = "город";
+"mtrCarmodel" = "Модель автомобиля";
+"mtrCondtiotn" = "Состояние двигателя";
+"mtrYear" = "Год";
+"mtrBodywk" = "Кузовные работы";
+"mtrTranss" = "коробка передач";
+"mtrColor" = "цвет";
+"mtrFueltype" = "Тип топлива";
+"mtrEngine" = "Размер двигателя";
+"mtrDriveUnt" = "Привод";
+"mtrClearance" = "просвет";
+"mtrYes" = "да";
+"mtrNo" = "нет";
+"mtrExchange" = "обмен";
+"mtrHidnPhone" = "Скрытый номер телефона";
+"mtrHidnOnChat" = "Включить чат";
+"mtrHidnDeature" = "Добавьте ваши объявления";
+"mtrDisclaimare" = "Я согласен с условиями использования сервиса, а также с передачей и обработкой моих данных на somom.tj. Я подтверждаю свой возраст и ответственность за размещение рекламы.";
+"mtrBtnPuBlish" = "Публиковать";
+
+
+// Real Estate Localization
+"city" = "город";
+"publishButton" = "Публиковать";
+"submitAds" = "Добавить объявление";
+
+"realUploadImage" = "Загрузить больше качественных и разных фотографий. это привлечет больше внимания к дополнению";
+"realTypeString" = "RealEstate / Дома и квартиры на продажу. / Ownwer";
+ "realtittle" = "заглавие";
+"realDescritption" = "Описание";
+"realPrice" = "Цена";
+//"realCity" = "город";
+"realarea" = "Площадь";
+"realBType" = "Тип здания";
+"realFloor" = "Пол";
+"realRepair" = "Ремонт";
+"realHidnPhone" = "Скрытый номер телефона";
+"realHidnOnChat" = "Включить чат";
+"realHidnDeature" = "Добавьте ваши объявления";
+"realDisclaimare" = "Я согласен с условиями использования сервиса, а также с передачей и обработкой моих данных на somom.tj. Я подтверждаю свой возраст и ответственность за размещение рекламы.";
+"realBtnPuBlish" = "Публиковать";
+
+
+
+"header_text" = "Russian Header";
+"tabHome" = "Дом";
+"tabFavourites" = "Избранные";
+"tabMessage" = "Сообщение";
+"tabAdds" = "Мои объявления";
+"search" = "Поиск на Кипре";
+"allcategories" = "все категории";
+"noofads" = "Объявления";
+"alert" = "бдительный";
+
+// CATEGORY SUB DETAIL
+"allcategorytittle" = "Все категории";
+"btnshowall" = "Показать все ↓";
+"btnhideall" = "Скрыть все ↑";
+
+// 2. favourites
+"favoriteads" = "Избранные объявления";
+"savedsearch" = "Сохраненные поиски";
+"youdonotaddads" = "Вы не добавили ни одного объявления в свой список еще.";
+
+// 3. Message
+"messagetittle" = "Сообщение";
+
+// 3. My Ads Screen
+"myaccounts" = "Мои счета";
+"inthewallet" = "В кошельке";
+"myads" = "Мои объявления";
+"settings" = "настройки";
+"topupwallet" = "Пополнять кошелек";
+"payments" = "платежи";
+"anyquestions" = "Любые вопросы? Написать нам письмо по почте: info@yourlogo.com. Ответы на многие вопросы можно найти на странице «Q & A» ИЛИ «Вопросы и ответы»";
+
+// SUBMIT ADS
+"submitanadstittle" = "Подайте объявление";
+"imageUploaddesciption" = "Загрузить более высокими - качество и различные фотографии. Я привлечет больше внимания к рекламе.";
+"header" = "заголовок";
+"category" = "категория";
+"description" = "Описание";
+"youtubevideos" = "YouTube видео";
+"price" = "Цена";
+"city" = "город";
+"placeonmap" = "Указать место на карте";
+"name" = "имя";
+"email" = "Эл. адрес";
+"phonenumber" = "Телефонный номер";
+"hiddenphonenumber" = "Скрытый номер телефона";
+"turnonchat" = "Выключить чат";
+"adsagreement" = "Я согласен с условиями использования услуг, а также передачи и обработки моих данных в «Somom.tj». Я подтверждаю свой возраст и ответственность за размещение объявлений.";
+"btnpublish" = "Публиковать";
+
+// SETTING SCREEN
+"settingtittle" = "настройки";
+"nameinsetting" = "имя";
+"emailinsetting" = "Эл. адрес";
+"phonenoinsetting" = "Телефонный номер";
+"emailnotificationtittle" = "Уведомление по электронной почте";
+"notifyonnewads" = "Уведомлять о новых объявлениях";
+"newadsincategories" = "Новые объявления в категории";
+"notifypublicationads" = "Сообщать объявление публикации";
+
+"pushnotificationtittle" = "Всплывающее уведомление";
+"chatnotificationtittle" = "Уведомления в чате";
+
+"notifywhenadspublished" = "Сообщать объявления публикуются";
+"notifywhenadsrejected" = "Сообщать объявления отклонены";
+"blocklist" = "Черный список";
+"savechanges" = "Сохраните изменения";
+"logoutaccount" = "Выход из учетной записи";
+"deleteaccount" = "Удалить аккаунт";

@@ -1,0 +1,80 @@
+PODS:
+  - ActiveLabel (1.1.0)
+  - Alamofire (4.9.1)
+  - DropDown (2.3.13)
+  - FTPopOverMenu_Swift (0.3.1)
+  - IQKeyboardManagerSwift (6.5.4)
+  - Kingfisher (5.12.0):
+    - Kingfisher/Core (= 5.12.0)
+  - Kingfisher/Core (5.12.0)
+  - KWVerificationCodeView (0.4.0)
+  - PGEZTransition (1.1.2)
+  - SDLoader (0.2.0)
+  - SDWebImage (5.4.1):
+    - SDWebImage/Core (= 5.4.1)
+  - SDWebImage/Core (5.4.1)
+  - SnapKit (4.2.0)
+  - SSCustomTabbar (2.0.1)
+  - SwiftGifOrigin (1.7.0)
+  - SwiftyJSON (5.0.0)
+  - SwiftyMenu (0.5.8):
+    - SnapKit (~> 4.2.0)
+  - SwiftyOverlay (1.1.6)
+
+DEPENDENCIES:
+  - ActiveLabel
+  - Alamofire
+  - DropDown
+  - FTPopOverMenu_Swift
+  - IQKeyboardManagerSwift
+  - Kingfisher
+  - KWVerificationCodeView
+  - PGEZTransition
+  - SDLoader
+  - SDWebImage
+  - SSCustomTabbar
+  - SwiftGifOrigin
+  - SwiftyJSON
+  - SwiftyMenu
+  - SwiftyOverlay
+
+SPEC REPOS:
+  trunk:
+    - ActiveLabel
+    - Alamofire
+    - DropDown
+    - FTPopOverMenu_Swift
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - KWVerificationCodeView
+    - PGEZTransition
+    - SDLoader
+    - SDWebImage
+    - SnapKit
+    - SSCustomTabbar
+    - SwiftGifOrigin
+    - SwiftyJSON
+    - SwiftyMenu
+    - SwiftyOverlay
+
+SPEC CHECKSUMS:
+  ActiveLabel: 5e3f4de79a1952d4604b845a0610d4776e4b82b3
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  FTPopOverMenu_Swift: 520eff7200f8700d8d0221387332ea6c7ce20794
+  IQKeyboardManagerSwift: 2dde0fc70110e8eac7ccce2a46fdbec6a850b414
+  Kingfisher: dc6e0f53bb5b12c3e75bedb0e01bbd7a640eea69
+  KWVerificationCodeView: 92cca6ad028546d3232fa75cda3a40d00109a1a2
+  PGEZTransition: 97fcec2efcef7c1f82de47b3ecddc2b48a178ce3
+  SDLoader: e35b571db413a4a98b6f58469b16dc095289c9f6
+  SDWebImage: 29c340dbdcef342bb13125553f4e19ce056b07a7
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SSCustomTabbar: 4ec050d50ada582ba6adf0ac5e086e5ac141df5a
+  SwiftGifOrigin: fbd6cf37afcfcf97a5c3db996ddc0492e5c5c145
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  SwiftyMenu: 6eccf166d3f662783f2271abacc21923a2d5c481
+  SwiftyOverlay: 5b1b1a565d555c0a997026e3c4dd520e0e8432b3
+
+PODFILE CHECKSUM: 63fb5c07a28a37ba12714b022b1397352e61e773
+
+COCOAPODS: 1.9.0

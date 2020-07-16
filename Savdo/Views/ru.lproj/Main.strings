@@ -1,0 +1,306 @@
+
+/* Class = "UILabel"; text = "To Notify the publication Ads"; ObjectID = "0H9-oX-lRU"; */
+"0H9-oX-lRU.text" = "To Notify the publication Ads";
+
+/* Class = "UITextField"; placeholder = "Keyword"; ObjectID = "1WI-L0-Q0T"; */
+"1WI-L0-Q0T.placeholder" = "Keyword";
+
+/* Class = "UITextField"; text = "Turn on Chat"; ObjectID = "1iK-2J-kpe"; */
+"1iK-2J-kpe.text" = "Turn on Chat";
+
+/* Class = "UITextField"; placeholder = "Code"; ObjectID = "6Vb-7l-eXH"; */
+"6Vb-7l-eXH.placeholder" = "Code";
+
+/* Class = "UILabel"; text = "Upload more high qualities and different photos. It will attract more attention to the ad."; ObjectID = "6cP-lS-fVS"; */
+"6cP-lS-fVS.text" = "Upload more high qualities and different photos. It will attract more attention to the ad.";
+
+/* Class = "UILabel"; text = "Sort"; ObjectID = "6jk-jh-dFe"; */
+"6jk-jh-dFe.text" = "Sort";
+
+/* Class = "UITextField"; placeholder = "City"; ObjectID = "7ml-Gk-qb3"; */
+"7ml-Gk-qb3.placeholder" = "City";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "9Ix-6w-Kod"; */
+"9Ix-6w-Kod.text" = "Detail";
+
+/* Class = "UITextField"; placeholder = "Description"; ObjectID = "9p7-MO-pof"; */
+"9p7-MO-pof.placeholder" = "Description";
+
+/* Class = "UITextField"; placeholder = "City"; ObjectID = "AE8-5F-nJX"; */
+"AE8-5F-nJX.placeholder" = "City";
+
+/* Class = "UILabel"; text = "Exchange is possible"; ObjectID = "ALe-WO-jRJ"; */
+"ALe-WO-jRJ.text" = "Exchange is possible";
+
+/* Class = "UILabel"; text = "No of ads"; ObjectID = "BId-5X-kdK"; */
+"BId-5X-kdK.text" = "No of ads";
+
+/* Class = "UILabel"; text = "Notification on Chat"; ObjectID = "BPR-Nq-byW"; */
+"BPR-Nq-byW.text" = "Notification on Chat";
+
+/* Class = "UILabel"; text = "129407 ads"; ObjectID = "BZE-vW-9hF"; */
+"BZE-vW-9hF.text" = "129407 ads";
+
+/* Class = "UILabel"; text = "Notify when Ads are Rejected"; ObjectID = "Cdq-cQ-xd8"; */
+"Cdq-cQ-xd8.text" = "Notify when Ads are Rejected";
+
+/* Class = "UITextField"; placeholder = "Phone No"; ObjectID = "DZL-fo-6oM"; */
+"DZL-fo-6oM.placeholder" = "Phone No";
+
+/* Class = "UITextField"; placeholder = "Price"; ObjectID = "EJZ-zR-uGL"; */
+"EJZ-zR-uGL.placeholder" = "Price";
+
+/* Class = "UIButton"; normalTitle = "10"; ObjectID = "ERE-qx-bHK"; */
+"ERE-qx-bHK.normalTitle" = "10";
+
+/* Class = "UILabel"; text = "I agree with terms of used of the service, as well as the transfer and processing of my data to somom.tj. I confirm my age and responsibility for placing the ad."; ObjectID = "Etu-Me-5aG"; */
+"Etu-Me-5aG.text" = "I agree with terms of used of the service, as well as the transfer and processing of my data to somom.tj. I confirm my age and responsibility for placing the ad.";
+
+/* Class = "UILabel"; text = "SHOW RESULTS"; ObjectID = "EuS-IN-PN4"; */
+"EuS-IN-PN4.text" = "SHOW RESULTS";
+
+/* Class = "UILabel"; text = "This is advertisement detail in multiple line"; ObjectID = "FfD-RS-5za"; */
+"FfD-RS-5za.text" = "This is advertisement detail in multiple line";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "GBi-lE-yWu"; */
+"GBi-lE-yWu.placeholder" = "Name";
+
+/* Class = "UILabel"; text = "Upload more high qualities and different photos. It will attract more attention to the ad."; ObjectID = "GJW-Cu-OUn"; */
+"GJW-Cu-OUn.text" = "Upload more high qualities and different photos. It will attract more attention to the ad.";
+
+/* Class = "UILabel"; text = "Category Name"; ObjectID = "GUJ-W2-GEs"; */
+"GUJ-W2-GEs.text" = "Category Name";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "Gjv-Fy-LPf"; */
+"Gjv-Fy-LPf.text" = "Settings";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "HB9-2H-fMh"; */
+"HB9-2H-fMh.placeholder" = "Name";
+
+/* Class = "UITabBarItem"; title = "Messages"; ObjectID = "I8Q-JR-VTf"; */
+"I8Q-JR-VTf.title" = "Messages";
+
+/* Class = "UILabel"; text = "To Notify the publication Ads"; ObjectID = "IQU-39-nGu"; */
+"IQU-39-nGu.text" = "To Notify the publication Ads";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "JV9-0o-EoT"; */
+"JV9-0o-EoT.normalTitle" = "SUBMIT";
+
+/* Class = "UILabel"; text = "Nicosia - Towen Center"; ObjectID = "JxG-Tb-rwB"; */
+"JxG-Tb-rwB.text" = "Nicosia - Towen Center";
+
+/* Class = "UITextField"; placeholder = "District"; ObjectID = "KUe-Sf-5Qh"; */
+"KUe-Sf-5Qh.placeholder" = "District";
+
+/* Class = "UILabel"; text = "Enter your OTP here"; ObjectID = "KcV-F3-EjK"; */
+"KcV-F3-EjK.text" = "Enter your OTP here";
+
+/* Class = "UILabel"; text = "Bazarika"; ObjectID = "Kmc-Vo-8Ox"; */
+"Kmc-Vo-8Ox.text" = "Bazarika";
+
+/* Class = "UITextField"; placeholder = "Category"; ObjectID = "LAJ-AK-eAi"; */
+"LAJ-AK-eAi.placeholder" = "Category";
+
+/* Class = "UILabel"; text = "The Phone number is Empty or not valid"; ObjectID = "Ldz-wt-o5T"; */
+"Ldz-wt-o5T.text" = "The Phone number is Empty or not valid";
+
+/* Class = "UILabel"; text = "New Ads in categories"; ObjectID = "Mhw-9q-2AK"; */
+"Mhw-9q-2AK.text" = "New Ads in categories";
+
+/* Class = "UILabel"; text = "Notify when Ads are published"; ObjectID = "Mkt-Pq-bW9"; */
+"Mkt-Pq-bW9.text" = "Notify when Ads are published";
+
+/* Class = "UIButton"; normalTitle = "PUBLISH"; ObjectID = "N1X-85-84z"; */
+"N1X-85-84z.normalTitle" = "PUBLISH";
+
+/* Class = "UITabBarItem"; title = "My Add"; ObjectID = "N6k-gC-YJH"; */
+"N6k-gC-YJH.title" = "My Add";
+
+/* Class = "UITextField"; placeholder = "Indicate place on map"; ObjectID = "NRy-FQ-hDR"; */
+"NRy-FQ-hDR.placeholder" = "Indicate place on map";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "PvN-VQ-GAU"; */
+"PvN-VQ-GAU.placeholder" = "Name";
+
+/* Class = "UITextField"; placeholder = "Description"; ObjectID = "QA9-FU-qfd"; */
+"QA9-FU-qfd.placeholder" = "Description";
+
+/* Class = "UILabel"; text = "Category Name"; ObjectID = "Qy1-Z4-Kv5"; */
+"Qy1-Z4-Kv5.text" = "Category Name";
+
+/* Class = "UILabel"; text = "0.00"; ObjectID = "Ry9-Nq-QVf"; */
+"Ry9-Nq-QVf.text" = "0.00";
+
+/* Class = "UILabel"; text = "I agree to the collection, use and processing of my personal data, and confirmation that I am at least 18 years old. I agree I've read and accept Terms and Conditions.  "; ObjectID = "SSI-nh-yLQ"; */
+"SSI-nh-yLQ.text" = "I agree to the collection, use and processing of my personal data, and confirmation that I am at least 18 years old. I agree I've read and accept Terms and Conditions.  ";
+
+/* Class = "UILabel"; text = "This is Advertise Tittle with Two line "; ObjectID = "Tqm-XN-Mbh"; */
+"Tqm-XN-Mbh.text" = "This is Advertise Tittle with Two line ";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "UX0-hT-ygj"; */
+"UX0-hT-ygj.placeholder" = "Email";
+
+/* Class = "UITextField"; placeholder = "Choose Categories"; ObjectID = "W3R-BK-0Fd"; */
+"W3R-BK-0Fd.placeholder" = "Choose Categories";
+
+/* Class = "UIButton"; normalTitle = "CONTINUE"; ObjectID = "XEz-4a-mTc"; */
+"XEz-4a-mTc.normalTitle" = "CONTINUE";
+
+/* Class = "UILabel"; text = "I agree with terms of used of the service, as well as the transfer and processing of my data to somom.tj. I confirm my age and responsibility for placing the ad."; ObjectID = "YWv-nP-YTU"; */
+"YWv-nP-YTU.text" = "I agree with terms of used of the service, as well as the transfer and processing of my data to somom.tj. I confirm my age and responsibility for placing the ad.";
+
+/* Class = "UITextField"; text = "Turn on Chat"; ObjectID = "Ygo-OE-0qz"; */
+"Ygo-OE-0qz.text" = "Turn on Chat";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "Z7g-If-jse"; */
+"Z7g-If-jse.title" = "Home";
+
+/* Class = "UILabel"; text = "You have not added any ads to your list yet "; ObjectID = "ab0-7G-4iJ"; */
+"ab0-7G-4iJ.text" = "You have not added any ads to your list yet ";
+
+/* Class = "UIButton"; normalTitle = "Relevance"; ObjectID = "asw-Fi-cbo"; */
+"asw-Fi-cbo.normalTitle" = "Relevance";
+
+/* Class = "UITabBarItem"; title = "Favorites"; ObjectID = "b8U-D9-bML"; */
+"b8U-D9-bML.title" = "Favorites";
+
+/* Class = "UILabel"; text = "Person Name"; ObjectID = "bfb-LA-ICN"; */
+"bfb-LA-ICN.text" = "Person Name";
+
+/* Class = "UITextField"; placeholder = "Indicate place on map"; ObjectID = "dJj-Gg-aaR"; */
+"dJj-Gg-aaR.placeholder" = "Indicate place on map";
+
+/* Class = "UITextField"; placeholder = "Category"; ObjectID = "dcH-iG-VTy"; */
+"dcH-iG-VTy.placeholder" = "Category";
+
+/* Class = "UITextField"; placeholder = "Youtube Videos"; ObjectID = "dv4-ca-LTQ"; */
+"dv4-ca-LTQ.placeholder" = "Youtube Videos";
+
+/* Class = "UIButton"; normalTitle = "Price : Highest"; ObjectID = "eHD-Ew-pZG"; */
+"eHD-Ew-pZG.normalTitle" = "Price : Highest";
+
+/* Class = "UITextField"; placeholder = "Seller"; ObjectID = "fmZ-8S-Bhp"; */
+"fmZ-8S-Bhp.placeholder" = "Seller";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "g6O-B4-PKL"; */
+"g6O-B4-PKL.placeholder" = "Email";
+
+/* Class = "UITextField"; placeholder = "Header"; ObjectID = "hhi-De-1M6"; */
+"hhi-De-1M6.placeholder" = "Header";
+
+/* Class = "UILabel"; text = "Notify on new Ads"; ObjectID = "i1G-cW-dkh"; */
+"i1G-cW-dkh.text" = "Notify on new Ads";
+
+/* Class = "UITextField"; placeholder = "Youtube Videos"; ObjectID = "iOi-yF-bES"; */
+"iOi-yF-bES.placeholder" = "Youtube Videos";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "iot-ic-cGJ"; */
+"iot-ic-cGJ.text" = "Price";
+
+/* Class = "UIButton"; normalTitle = "Logout of Account"; ObjectID = "ise-XP-Dhy"; */
+"ise-XP-Dhy.normalTitle" = "Logout of Account";
+
+/* Class = "UILabel"; text = "TO"; ObjectID = "jYt-DU-q0o"; */
+"jYt-DU-q0o.text" = "TO";
+
+/* Class = "UIButton"; normalTitle = "APPLY"; ObjectID = "jpC-pB-0x2"; */
+"jpC-pB-0x2.normalTitle" = "APPLY";
+
+/* Class = "UILabel"; text = "Block List"; ObjectID = "jwn-Zt-F70"; */
+"jwn-Zt-F70.text" = "Block List";
+
+/* Class = "UIButton"; normalTitle = "Save Changes"; ObjectID = "k8f-YP-7dI"; */
+"k8f-YP-7dI.normalTitle" = "Save Changes";
+
+/* Class = "UILabel"; text = "Message"; ObjectID = "kK7-wy-JYg"; */
+"kK7-wy-JYg.text" = "Message";
+
+/* Class = "UIButton"; normalTitle = "Show All "; ObjectID = "l2H-Gl-bBq"; */
+"l2H-Gl-bBq.normalTitle" = "Show All ";
+
+/* Class = "UITextField"; placeholder = "Phone No"; ObjectID = "lET-eA-LvZ"; */
+"lET-eA-LvZ.placeholder" = "Phone No";
+
+/* Class = "UITextField"; placeholder = "Header"; ObjectID = "lXb-jB-Kpe"; */
+"lXb-jB-Kpe.placeholder" = "Header";
+
+/* Class = "UISearchBar"; placeholder = "Search in Cyprus"; ObjectID = "lZh-Sm-dSW"; */
+"lZh-Sm-dSW.placeholder" = "Search in Cyprus";
+
+/* Class = "UITextField"; text = "Hidden Phone Number"; ObjectID = "lib-MF-YYu"; */
+"lib-MF-YYu.text" = "Hidden Phone Number";
+
+/* Class = "UILabel"; text = "E-MAIL Notifications"; ObjectID = "lu3-2j-qLR"; */
+"lu3-2j-qLR.text" = "E-MAIL Notifications";
+
+/* Class = "UILabel"; text = "Submit an Ad"; ObjectID = "nKa-nF-ELU"; */
+"nKa-nF-ELU.text" = "Submit an Ad";
+
+/* Class = "UISearchBar"; placeholder = "Search in Cyprus"; ObjectID = "nh4-A6-PVx"; */
+"nh4-A6-PVx.placeholder" = "Search in Cyprus";
+
+/* Class = "UILabel"; text = "1,20,000 Ads"; ObjectID = "nv2-U4-HNy"; */
+"nv2-U4-HNy.text" = "1,20,000 Ads";
+
+/* Class = "UITextField"; placeholder = "Price"; ObjectID = "nw1-xk-4Na"; */
+"nw1-xk-4Na.placeholder" = "Price";
+
+/* Class = "UIButton"; normalTitle = "Delete Account"; ObjectID = "o5d-cT-mE5"; */
+"o5d-cT-mE5.normalTitle" = "Delete Account";
+
+/* Class = "UILabel"; text = "10.00"; ObjectID = "oSA-6X-s9o"; */
+"oSA-6X-s9o.text" = "10.00";
+
+/* Class = "UIButton"; normalTitle = "Data Published"; ObjectID = "pVM-Vr-Phg"; */
+"pVM-Vr-Phg.normalTitle" = "Data Published";
+
+/* Class = "UILabel"; text = "Notify me of my Rejected Ads"; ObjectID = "qCM-mg-Akf"; */
+"qCM-mg-Akf.text" = "Notify me of my Rejected Ads";
+
+/* Class = "UIButton"; normalTitle = "PUBLISH"; ObjectID = "qfZ-b5-I14"; */
+"qfZ-b5-I14.normalTitle" = "PUBLISH";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "qnv-g4-J7k"; */
+"qnv-g4-J7k.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Push Notifications"; ObjectID = "rMN-Mf-00Q"; */
+"rMN-Mf-00Q.text" = "Push Notifications";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "rhd-so-EKw"; */
+"rhd-so-EKw.placeholder" = "Phone Number";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "rke-2W-bkv"; */
+"rke-2W-bkv.text" = "Login";
+
+/* Class = "UILabel"; text = "Menu Name"; ObjectID = "rsl-zF-vxf"; */
+"rsl-zF-vxf.text" = "Menu Name";
+
+/* Class = "UILabel"; text = "Enter Your Phone Number"; ObjectID = "s2X-Tu-XMJ"; */
+"s2X-Tu-XMJ.text" = "Enter Your Phone Number";
+
+/* Class = "UILabel"; text = "All Categories"; ObjectID = "slO-f2-I5X"; */
+"slO-f2-I5X.text" = "All Categories";
+
+/* Class = "UITextField"; text = "Hidden Phone Number"; ObjectID = "vim-8N-QLK"; */
+"vim-8N-QLK.text" = "Hidden Phone Number";
+
+/* Class = "UIButton"; normalTitle = "Price : Lowest"; ObjectID = "w9D-el-nSu"; */
+"w9D-el-nSu.normalTitle" = "Price : Lowest";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "xi5-0T-WU7"; */
+"xi5-0T-WU7.placeholder" = "Phone Number";
+
+/* Class = "UILabel"; text = "Message"; ObjectID = "zDa-1m-f4t"; */
+"zDa-1m-f4t.text" = "Message";
+
+/* Class = "UILabel"; text = "Submit an Ad"; ObjectID = "zWe-N0-7Nq"; */
+"zWe-N0-7Nq.text" = "Submit an Ad";
+
+/* Class = "UILabel"; text = "Filter"; ObjectID = "zWe-s1-EKV"; */
+"zWe-s1-EKV.text" = "Filter";
+
+/* Class = "UILabel"; text = "Verify Phone Number"; ObjectID = "zeS-ZH-AsN"; */
+"zeS-ZH-AsN.text" = "Verify Phone Number";
+
+/* Class = "UILabel"; text = "$ 100.000"; ObjectID = "zqp-JH-68H"; */
+"zqp-JH-68H.text" = "$ 100.000";

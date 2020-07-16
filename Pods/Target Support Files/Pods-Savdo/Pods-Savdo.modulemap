@@ -1,0 +1,6 @@
+framework module Pods_Savdo {
+  umbrella header "Pods-Savdo-umbrella.h"
+
+  export *
+  module * { export * }
+}

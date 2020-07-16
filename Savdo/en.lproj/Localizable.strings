@@ -1,0 +1,197 @@
+// View Post Ads
+"listLayout" = "List Layout";
+"gridLayout" = "Grid Layout";
+
+
+// Common Screen
+"city" = "City";
+"publishButton" = "Publish";
+"submitAds" = "Submit An Ads";
+
+
+//JOBSVC
+"jobsUploadImage" = "Upload more high qualities and different photos. it will attract more attention to the ad";
+"jobsTypeString" = "RealEstate / Houses & apparments for sale. / Owner";
+"jobstittle" = "Title";
+"jobsDescritption" = "Descripton";
+"jobsPrice" = "Price";
+"jobsCity" = "City";
+"jobsSize" = "Size";
+"jobsType" = "Job Type";
+"jobsWork" = "Work Experiance";
+"jobsHidnPhone" = "Hidden Phone No";
+"jobsHidnOnChat" = "Turn On Chat";
+"jobsHidnDeature" = "Feature Your Ads";
+"jobsDisclaimare" = "I agree with terms of used of the service, as well as the transfer and processing of my data to somom.tj. I confirm my age and responsibility for placing the ad.";
+"jobsBtnPuBlish" = "Publish";
+
+
+//PostAddVC
+"PAddUploadImage" = "Upload more high qualities and different photos. it will attract more attention to the ad";
+"PAddTypeString" = "RealEstate / Houses & apparments for sale. / Owner";
+"PAddtittle" = "Title";
+"PAddDescritption" = "Descripton";
+"PAddPrice" = "Price";
+"PAddCity" = "City";
+"PAddSize" = "Size";
+"PAddHidnPhone" = "Hidden Phone No";
+"PAddHidnOnChat" = "Turn On Chat";
+"PAddHidnDeature" = "Feature Your Ads";
+"PAddDisclaimare" = "I agree with terms of used of the service, as well as the transfer and processing of my data to somom.tj. I confirm my age and responsibility for placing the ad.";
+"PAddBtnPuBlish" = "Publish";
+
+//MrKetVC
+"MrKetUploadImage" = "Upload more high qualities and different photos. it will attract more attention to the ad";
+"MrKetTypeString" = "RealEstate / Houses & apparments for sale. / Owner";
+"MrKettittle" = "Title";
+"MrKetDescritption" = "Descripton";
+"MrKetPrice" = "Price";
+"MrKetCity" = "City";
+"MrKetSize" = "Size";
+"MrKetHidnPhone" = "Hidden Phone No";
+"MrKetHidnOnChat" = "Turn On Chat";
+"MrKetHidnDeature" = "Feature Your Ads";
+"MrKetDisclaimare" = "I agree with terms of used of the service, as well as the transfer and processing of my data to somom.tj. I confirm my age and responsibility for placing the ad.";
+"MrKetBtnPuBlish" = "Publish";
+
+
+//KidsVC
+"kidUploadImage" = "Upload more high qualities and different photos. it will attract more attention to the ad";
+"kidTypeString" = "RealEstate / Houses & apparments for sale. / Owner";
+"kidtittle" = "Title";
+"kidDescritption" = "Descripton";
+"kidPrice" = "Price";
+"kidCity" = "City";
+"kidSize" = "Size";
+"kidHidnPhone" = "Hidden Phone No";
+"kidHidnOnChat" = "Turn On Chat";
+"kidHidnDeature" = "Feature Your Ads";
+"kidDisclaimare" = "I agree with terms of used of the service, as well as the transfer and processing of my data to somom.tj. I confirm my age and responsibility for placing the ad.";
+"kidBtnPuBlish" = "Publish";
+
+//MOTORVC
+"mtrUploadImage" = "Upload more high qualities and different photos. it will attract more attention to the ad";
+"mtrTypeString"="RealEstate / Houses & apparments for sale. / Owner";
+"mtrtittle" = "Title";
+"mtrDescritption" = "Descripton";
+"mtrPrice" = "Price";
+"mtrCity" = "City";
+"mtrCarmodel" = "Car Model";
+"mtrCondtiotn" = "Motor Condition";
+"mtrYear" = "Year";
+"mtrBodywk" = "Body Work";
+"mtrTranss" = "Transmission";
+"mtrColor" = "Color";
+"mtrFueltype" = "Fuel Type";
+"mtrEngine" = "Engine Size";
+"mtrDriveUnt" = "Drive Unit";
+"mtr Clearance" = "Clearance";
+"mtrYes" = "Yes";
+"mtrNo" = "No";
+"mtrExchange" = "Exchange";
+"mtrHidnPhone" = "Hidden Phone No";
+"mtrHidnOnChat" = "Turn On Chat";
+"mtrHidnDeature" = "Feature Your Ads";
+"mtrDisclaimare" = "I agree with terms of used of the service, as well as the transfer and processing of my data to somom.tj. I confirm my age and responsibility for placing the ad.";
+"mtrBtnPuBlish" = "Publish";
+
+
+
+// Real Estate Localization
+"realUploadImage" = "Upload more high qualities and different photos. it will attract more attention to the ad";
+"realTypeString"="RealEstate / Houses & apparments for sale. / Owner";
+"realtittle" = "Title";
+"realDescritption" = "Descripton";
+"realPrice" = "Price";
+"realCity" = "City";
+"realarea" = "Area";
+"realBType" = "Building Type";
+"realFloor" = "Floor";
+"realRepair" = "Repair";
+"realHidnPhone" = "Hidden Phone No";
+"realHidnOnChat" = "Turn On Chat";
+"realHidnDeature" = "Feature Your Ads";
+"realDisclaimare" = "I agree with terms of used of the service, as well as the transfer and processing of my data to somom.tj. I confirm my age and responsibility for placing the ad.";
+"realBtnPuBlish" = "Publish";
+
+
+// Alert Message
+"alert" = "Alert";
+"successalert" = "Success";
+
+"categoryadd" = "Category Add Successfull";
+"selectimage" = "Please Select at least one Image";
+"categorytittle" = "Please Enter Tittle";
+"categorydesc" = "Please Enter Description";
+"categoryprice" = "Please Enter Price";
+"categorycity" = "Please Select City";
+
+// 1. Home Screen
+"header_text" = "English Header";
+"tabHome" = "Home";
+"tabFavourites" = "Favourites";
+"tabMessage" = "Message";
+"tabAdds" = "My Ads";
+"search" = "Search In Syprus";
+"allcategories" = "All Categories";
+"noofads" = "Ads";
+
+// CATEGORY SUB DETAIL
+"allcategorytittle" = "All Category";
+"btnshowall" = "Show All ↓";
+"btnhideall" = "Hide All ↑";
+
+// 2. favourites
+"favoriteads" = "Favourite Ads";
+"savedsearch" = "Saved Searched";
+"youdonotaddads" = "You have not added any ads to your list yet.";
+
+// 3. Message Screen
+"messagetittle" = "Message";
+
+// 3. My Ads Screen
+"myaccounts" = "My Accounts";
+"inthewallet" = "In the wallet";
+"myads" = "My Ads";
+"settings" = "Settings";
+"topupwallet" = "Top Up Wallet";
+"payments" = "Payments";
+"anyquestions" = "Any questions? Write us an email in the mail: info@yourlogo.com. The answers to many questions can be found at page \"Q&A\" OR \"Questions & Answers\"";
+
+
+// Submit Ads
+"submitanadstittle" = "Submit An Ads";
+"imageUploaddesciption" = "Upload more high - qualities and different photos. I will attract more attention to the ad.";
+"header" = "Header";
+"category" = "Category";
+"description" = "Description";
+"youtubevideos" = "Youtube Videos";
+"price" = "Price";
+"city" = "City";
+"placeonmap" = "Indicate the place on the map";
+"name" = "Name";
+"email" = "Email";
+"phonenumber" = "Phone Number";
+"hiddenphonenumber" = "Hidden Phone Number";
+"turnonchat" = "Turn On Chat";
+"adsagreement" = "I agree with the terms of use of the services as well as the transfer and processing of my data to 'Somom.tj'. I confirm my age and responsibility for placing the Ad.";
+"btnpublish" = "Publish";
+
+// SETTING SCREEN
+"settingtittle" = "Settings";
+"nameinsetting" = "Name";
+"emailinsetting" = "Email";
+"phonenoinsetting" = "Phone Number";
+"emailnotificationtittle" = "E-MAIL notification";
+"notifyonnewads" = "Notify on new ads";
+"newadsincategories" = "New ads in categories";
+"notifypublicationads" = "To notify the publication ads";
+
+"pushnotificationtittle" = "Push Notifications";
+"chatnotificationtittle" = "Notification On Chat";
+"notifywhenadspublished" = "Notify when ads are published";
+"notifywhenadsrejected" = "Notify when ads are rejected";
+"blocklist" = "Block list";
+"savechanges" = "Save the changes";
+"logoutaccount" = "Log out of Account";
+"deleteaccount" = "Delete account";
